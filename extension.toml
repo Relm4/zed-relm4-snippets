@@ -1,5 +1,5 @@
-id = "relm4"
-name = "Relm4"
+id = "relm4-snippets"
+name = "Relm4 Snippets"
 version = "0.0.1"
 schema_version = 1
 authors = ["Eduardo Flores <edfloreshz@gmail.com>"]
